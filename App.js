@@ -98,10 +98,11 @@ const App: () => React$Node = () => {
           <Image
         style={{
           width:55,
-          height:55
+          height:55,
+          borderRadius:27
         }}
         source={{
-          uri: 'https://reactnative.dev/img/tiny_logo.png',
+          uri: 'https://i.picsum.photos/id/866/200/200.jpg?hmac=i0ngmQOk9dRZEzhEosP31m_vQnKBQ9C19TBP1CGoIUA',
         }}
           />
         </View>
